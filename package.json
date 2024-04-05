@@ -1,0 +1,26 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.13.22",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "run dev",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliNaqvi01/ExpressServerw.git"
+  },
+  "author": "Ali Naqvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliNaqvi01/ExpressServerw/issues"
+  },
+  "homepage": "https://github.com/AliNaqvi01/ExpressServerw#readme"
+}
